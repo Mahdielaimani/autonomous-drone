@@ -1,0 +1,4 @@
+Invoking command in '/home/mahdi/flutter_projects/rangers/build/rangers': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8
+Invoked command in '/home/mahdi/flutter_projects/rangers/build/rangers' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8
+Invoking command in '/home/mahdi/flutter_projects/rangers/build/rangers': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/flutter_projects/rangers/build/rangers
+Invoked command in '/home/mahdi/flutter_projects/rangers/build/rangers' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/flutter_projects/rangers/build/rangers

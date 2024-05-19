@@ -1,0 +1,2 @@
+Invoking command in '/home/mahdi/flutter_projects/rangers/build/rangers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8
+Invoked command in '/home/mahdi/flutter_projects/rangers/build/rangers' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8

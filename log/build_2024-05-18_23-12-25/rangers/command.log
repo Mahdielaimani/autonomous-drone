@@ -1,0 +1,6 @@
+Invoking command in '/home/mahdi/Downloads/rangers/build/rangers': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/mahdi/Downloads/rangers/src/rangers -DCMAKE_INSTALL_PREFIX=/home/mahdi/Downloads/rangers/install/rangers
+Invoked command in '/home/mahdi/Downloads/rangers/build/rangers' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/mahdi/Downloads/rangers/src/rangers -DCMAKE_INSTALL_PREFIX=/home/mahdi/Downloads/rangers/install/rangers
+Invoking command in '/home/mahdi/Downloads/rangers/build/rangers': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/Downloads/rangers/build/rangers -- -j8 -l8
+Invoked command in '/home/mahdi/Downloads/rangers/build/rangers' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/Downloads/rangers/build/rangers -- -j8 -l8
+Invoking command in '/home/mahdi/Downloads/rangers/build/rangers': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/Downloads/rangers/build/rangers
+Invoked command in '/home/mahdi/Downloads/rangers/build/rangers' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/Downloads/rangers/build/rangers

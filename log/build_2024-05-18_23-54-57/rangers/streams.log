@@ -1,0 +1,35 @@
+[0.008s] Invoking command in '/home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers -- -j8 -l8
+[0.035s] Invoked command in '/home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers -- -j8 -l8
+[0.059s] Invoking command in '/home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers
+[0.065s] -- Install configuration: ""
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/config
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/config/empty.yaml
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/config/view_bot.rviz
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/config/drive_bot.rviz
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/description
+[0.065s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/description/gazebo_control.xacro
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/description/inertial_macros.xacro
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/description/robot.urdf.xacro
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/description/robot_core.xacro
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/launch
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/launch/launch_sim.launch.py
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/launch/rsp.launch.py
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/worlds
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/worlds/obstacles.world
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/worlds/empty.world
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/ament_index/resource_index/package_run_dependencies/rangers
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/ament_index/resource_index/parent_prefix_path/rangers
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/environment/path.sh
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/environment/path.dsv
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/local_setup.bash
+[0.066s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/local_setup.sh
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/local_setup.zsh
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/local_setup.dsv
+[0.067s] -- Installing: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/package.dsv
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/ament_index/resource_index/packages/rangers
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/cmake/rangersConfig.cmake
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/cmake/rangersConfig-version.cmake
+[0.067s] -- Up-to-date: /home/mahdi/flutter_projects/lwarriors_drone_ws/install/rangers/share/rangers/package.xml
+[0.068s] Invoked command in '/home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers

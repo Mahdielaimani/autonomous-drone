@@ -1,0 +1,6 @@
+[0.008s] Invoking command in '/home/mahdi/flutter_projects/rangers/build/rangers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8
+[0.014s] [0mCMake Error: The current CMakeCache.txt directory /home/mahdi/flutter_projects/rangers/build/rangers/CMakeCache.txt is different than the directory /home/mahdi/flutter_projects/lwarriors_drone_ws/build/rangers where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.021s] [0mCMake Error: The source directory "/home/mahdi/flutter_projects/lwarriors_drone_ws/src/rangers" does not exist.
+[0.021s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.021s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.023s] Invoked command in '/home/mahdi/flutter_projects/rangers/build/rangers' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/mahdi/flutter_projects/rangers/build/rangers -- -j8 -l8

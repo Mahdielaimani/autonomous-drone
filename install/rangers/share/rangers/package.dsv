@@ -1,0 +1,8 @@
+source;share/rangers/hook/cmake_prefix_path.ps1
+source;share/rangers/hook/cmake_prefix_path.dsv
+source;share/rangers/hook/cmake_prefix_path.sh
+source;share/rangers/local_setup.bash
+source;share/rangers/local_setup.dsv
+source;share/rangers/local_setup.ps1
+source;share/rangers/local_setup.sh
+source;share/rangers/local_setup.zsh
